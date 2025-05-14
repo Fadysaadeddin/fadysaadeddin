@@ -41,8 +41,8 @@ An **internship** or **junior full-time role** in web development where I can co
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-- 📧 Email: your.email@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/fady-saadeddin-517999355)
+- 📧 Email: fadysaadeddin@gmail.com
 
 ---
 
