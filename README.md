@@ -1,11 +1,11 @@
-## 👋 Hi there, I’m Fady!
+## 👋 Hello World, I’m Fady!
 
 🌍 Based in the Netherlands | 💻 Full-Stack Web Developer | 🎓 HackYourFuture Graduate
 
 ---
 
 ### 👨‍🏫 From Teacher to Developer  
-I started my career teaching English after graduating from **Damascus University** in 2011. I taught in Lebanon for nearly a decade, honing strong communication, leadership, and adaptability skills.
+I started my career teaching English after graduating from **Damascus University** in 2011.
 
 In 2022, I moved to the Netherlands and began a new chapter — diving deep into web development through the **HackYourFuture** program.
 
@@ -25,12 +25,12 @@ In 2022, I moved to the Netherlands and began a new chapter — diving deep into
 **📌 FollowMe**  
 Full-stack app where users can create and join events across Europe.  
 🛠️ React · Node.js · MongoDB · Socket.io  
-🔗 [GitHub Repo](https://github.com/YOUR_PROJECT_LINK)
+🔗 [FollowMe](https://c50-group-a-eb9c219c9326.herokuapp.com)
 
-**📌 Recipe Explorer**  
+**📌 FoodFactory**  
 Frontend app that fetches API data to explore meals and recipes by category.  
 🛠️ React · Fetch API · Routing  
-🔗 [GitHub Repo](https://github.com/YOUR_PROJECT_LINK)
+🔗 [FoodFactory](https://testproject-git-master-fadysaadeddins-projects.vercel.app/)
 
 ---
 
